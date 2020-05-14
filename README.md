@@ -19,3 +19,4 @@ rs is a set of files / library for doing live coding of MIDI sequencing using th
 * **rs-demo-polyrhythm** Shows how you can use polyrhythm, by playing two loops simultaneously that each have a different number of steps AND a different length.
 * **rs-diag-timing** A simple script you can use to verify timing performance on your system.
 * **rs-live-template** A starting template for your own experiments in live coding with rs.
+* **rs-tool-cc** A tool for setting up your DAW / your MIDI instrument to listen to specific MIDI CC numbers.
