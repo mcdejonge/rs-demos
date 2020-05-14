@@ -5,7 +5,7 @@
 
 (require rs)
 
-(when (not (length (list)))
+(when (not (length (rs-m-list-ports)))
   (printf "No MIDI ports available. This will not work.\n"))
 
 (rs-set-global-bpm! 128)
