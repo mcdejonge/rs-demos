@@ -12,7 +12,7 @@ rs is a set of files / library for doing live coding of MIDI sequencing using th
 
 ### Files
 
-* **rs-demo1** The simplest possible notes. Plays a few notes on a monophonic instrument. Use this to check if everything works on your system.
+* **rs-demo1** The simplest possible demo. Plays a few notes on a monophonic instrument. Use this to check if everything works on your system.
 * **rs-demo-chords** Shows how you can play chords.
 * **rs-demo-drums** Shows how you can play drum sequences using Ableton drum racks (this is basically just playing notes, though).
 * **rs-demo-polymeter** Shows how you can use polymeter, ie playing two loops simultaneously of the same length but each with a different number of steps.
