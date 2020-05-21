@@ -11,7 +11,7 @@
 (define midi-channel 1) ;; <- The MIDI channel to use.
 
 
-(require "rs-m.rkt")
+(require rs)
 
 
 
